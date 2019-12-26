@@ -1,12 +1,4 @@
 patches.rockstargames.com
-prod.ros.rockstargames.com
-prod.cloud.rockstargames.com
-ps-rgl-prod.ros.rockstargames.com
-prs-rgl-prod.ros.rockstargames.com
-app-rgl-prod.ros.rockstargames.com
-auth-rgl-prod.ros.rockstargames.com
-rgl-prod.ros.rockstargames.com
-tm-rgl-prod.ros.rockstargames.com
 gamedownloads-rockstargames-com.akamaized.net
 gamedownloads-rockstargames.edgekey.net
 gamedownloads.rockstargames.com
