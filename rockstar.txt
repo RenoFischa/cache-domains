@@ -1,4 +1,2 @@
 patches.rockstargames.com
-gamedownloads-rockstargames-com.akamaized.net
-gamedownloads-rockstargames.edgekey.net
 gamedownloads.rockstargames.com
